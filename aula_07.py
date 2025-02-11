@@ -5,7 +5,6 @@
 #ex: emanuel_lucas = maneiro
 #então, quando eu usar a variave emanuel_lucas, ela vai retornar o valor maneiro
 # manel = 'rei delas'
-# alba = 'bosta e merda'
 # soma_1_mais_20 = 1 + 20
 # print('Quem é manel?', manel)
 # print('Quem é Alba?', alba)
@@ -17,8 +16,8 @@
 nome = 'Emanuel'
 idade = 23
 idade_menina = 17
-pode_dar_ideia_nela = idade_menina >= 18
+maior_de_idade = idade_menina >= 18
 
 print('Qual seu nome?', nome)
 print('Qual sua idade?', idade)
-print('Posso dar em cima dessa menina?', idade_menina, pode_dar_ideia_nela)
+print('Posso dar em cima dessa menina?', idade_menina, maior_de_idade)
